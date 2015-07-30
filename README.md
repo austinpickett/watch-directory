@@ -6,8 +6,7 @@ This program watches a directory recurively and saves the file to another locati
 
 * Install Python
 * Install pip
-* `python watch-directory.py`
+* `python watch-directory.py --input <directory> --output <directory>`
 
 ## Todo
-* no hardcoded paths
 * GUI
